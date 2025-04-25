@@ -1,3 +1,5 @@
+ONLY [ESX] KEIN [QBCORE]
+
 Ein Tutorial Zum Instalieren
 
 1. Downloade Die vape.zip
